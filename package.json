@@ -1,0 +1,23 @@
+{
+  "name": "console-inspect",
+  "version": "1.0.0",
+  "description": "A shortcut to `console.log(util.inspect(...))`",
+  "main": "index.js",
+  "scripts": {
+    "test": "node test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/nswbmw/console-inspect.git"
+  },
+  "keywords": [
+    "console",
+    "inspect"
+  ],
+  "author": "nswbmw",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/nswbmw/console-inspect/issues"
+  },
+  "homepage": "https://github.com/nswbmw/console-inspect#readme"
+}
